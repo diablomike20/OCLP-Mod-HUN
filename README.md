@@ -1,8 +1,11 @@
-## A Hackintosh a történelem homályába veszett, az OCLP-Mod pedig több mint két éve maradt karban anélkül, hogy észrevettem volna. Visszagondolni arra, amikor először kezdtem el Hackintosh-sal játszani, kicsit szürreális érzés.
+Eredeti Leiras (Magyar NYelven):
+
+
+## A Hackintosh a történelem homályába veszett, az OCLP-Mod pedig több mint két éve maradt karbantartas nélkül, hogy észrevettem volna. Visszagondolni arra, amikor először kezdtem el Hackintosh-sal játszani, kicsit szürreális érzés.
 
 ## Az emlékeknek felbecsülhetetlennek kellene lenniük, legalábbis én ezt gondolom.
 
-## Ez a projekt 2026. június 13-án lépett archiválás módba, és csak nagyon különleges körülmények között (például a világ pusztulása) frissül újra. A meglévő verziók továbbra is használhatók, de az API csomópontjaink fokozatosan leállnak. Kérjük, tiltsa le a SimpleHacAPI-t az OCLP-Mod beállításaiban.
+## Ez a projekt 2026. június 13-án archiválásra kerult, és csak nagyon különleges körülmények között (például a világ pusztulása) frissül újra. A meglévő verziók továbbra is használhatók, de az API csomópontjaink fokozatosan leállnak. Kérjük, tiltsd le a SimpleHacAPI-t az OCLP-Mod beállításaiban.
 
 ## Fény és árnyék összefonódik, a szél átfúj rajtuk. Viszlát a jövőben.
 
